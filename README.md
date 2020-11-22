@@ -1,3 +1,3 @@
 # hello-world
-tutorial {break}
+tutorial <break>
 hello, i'm learning how to use github.
